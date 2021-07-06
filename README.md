@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeng Yue
+- 👀 I’m currently interested in full stack development
+- 🌱 I’m currently learning as much as I can 🤣
+- 🥅 2021-2022 Goals: Work on more interesting projects
